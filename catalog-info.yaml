@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "demo-mrs"
+  description: "Demo MRS"
+  annotations:
+    github.com/project-slug: anant-pawar/demo-mrs
+    backstage.io/techdocs-ref: url:https://github.com/anant-pawar/demo-mrs
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "team-a"

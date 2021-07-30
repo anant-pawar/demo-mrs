@@ -1,0 +1,8 @@
+site_name: "demo-mrs"
+site_description: "Demo MRS"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
